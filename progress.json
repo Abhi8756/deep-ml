@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T20:26:36.615Z",
+  "generated_at": "2026-10-02T20:36:30.120Z",
   "items": {
     "problem:1101": {
       "kind": "problem",
@@ -104,6 +104,32 @@
       "last_pushed_at": "2026-10-02T20:26:33.385Z",
       "language": "sql",
       "lines": 4
+    },
+    "problem:1109": {
+      "kind": "problem",
+      "id": "1109",
+      "title": "Your first JOIN",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1109",
+      "path": "problems/1109-your-first-join",
+      "first_solved_at": "2026-10-02T20:31:14.650Z",
+      "last_pushed_at": "2026-10-02T20:31:14.650Z",
+      "language": "sql",
+      "lines": 6
+    },
+    "problem:1110": {
+      "kind": "problem",
+      "id": "1110",
+      "title": "Nth-Highest Salary with Ties and NULL",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1110",
+      "path": "problems/1110-nth-highest-salary-with-ties-and-null",
+      "first_solved_at": "2026-10-02T20:34:34.726Z",
+      "last_pushed_at": "2026-10-02T20:34:34.726Z",
+      "language": "sql",
+      "lines": 6
     }
   }
 }
