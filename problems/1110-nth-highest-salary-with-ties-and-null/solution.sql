@@ -1,6 +1,8 @@
--- your query
-SELECT distinct salary 
-from employee
-order by salary desc 
-limit 1
-offset 2
+select distinct(t.salary) 
+from (
+    Select salary, dense_rank() over(
+        order by salary desc 
+    ) as rnk 
+    from employee 
+) t
+where rnk = 3
