@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**14** solved · 14 problems · 0 labs · 0 math
+**15** solved · 15 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sort results with ORDER BY](https://www.deep-ml.com/problems/1104) | easy | 2026-10-02 | [solution](problems/1104-sort-results-with-order-by) |
 | [Top N with LIMIT](https://www.deep-ml.com/problems/1106) | easy | 2026-10-02 | [solution](problems/1106-top-n-with-limit) |
 | [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-10-02 | [solution](problems/1109-your-first-join) |
+| [Each Customer's Lowest-Priced Order](https://www.deep-ml.com/problems/1122) | medium | 2026-10-08 | [solution](problems/1122-each-customer-s-lowest-priced-order) |
 | [Employees Earning More Than Their Managers](https://www.deep-ml.com/problems/1113) | medium | 2026-10-03 | [solution](problems/1113-employees-earning-more-than-their-managers) |
 | [Nth-Highest Salary with Ties and NULL](https://www.deep-ml.com/problems/1110) | medium | 2026-10-02 | [solution](problems/1110-nth-highest-salary-with-ties-and-null) |
 | [Top-3 Salaries Per Department](https://www.deep-ml.com/problems/1111) | medium | 2026-10-03 | [solution](problems/1111-top-3-salaries-per-department) |
