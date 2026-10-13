@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T07:29:57.341Z",
+  "generated_at": "2026-10-13T12:25:18.223Z",
   "items": {
     "problem:1101": {
       "kind": "problem",
@@ -208,6 +208,19 @@
       "last_pushed_at": "2026-10-08T07:29:55.698Z",
       "language": "sql",
       "lines": 14
+    },
+    "problem:1175": {
+      "kind": "problem",
+      "id": "1175",
+      "title": "Average Comment Threads per Post",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1175",
+      "path": "problems/1175-average-comment-threads-per-post",
+      "first_solved_at": "2026-10-13T12:25:16.639Z",
+      "last_pushed_at": "2026-10-13T12:25:16.639Z",
+      "language": "sql",
+      "lines": 9
     }
   }
 }
